@@ -1,0 +1,22 @@
+{
+  "name": "js-automation",
+  "version": "1.0.0",
+  "description": "automation-goodies",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassan635/js-automation.git"
+  },
+  "author": "Hasan Ali Tariq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hassan635/js-automation/issues"
+  },
+  "homepage": "https://github.com/hassan635/js-automation#readme",
+  "dependencies": {
+    "cypress": "^4.9.0"
+  }
+}
